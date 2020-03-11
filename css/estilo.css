@@ -53,12 +53,14 @@ body{
 
 /* ID'S */
 #area-principal{
-    width: 52%;
+    width: 90%;
     margin: 55px auto 10px auto;
 }
 
 #logo{
     float: left;
+    margin-left: 20px;
+    margin-top: 5px;
 }
 
 #menu{
@@ -67,7 +69,7 @@ body{
 }
 
 #area-nav{
-    width: 50%;
+    width: 100%;
     margin: 0 auto;
 }
 
